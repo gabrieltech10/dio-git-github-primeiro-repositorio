@@ -1,0 +1,7 @@
+Caminho para ser um Desenvolvedor Web 
+
+1° Passo: Introdução a Logica de programação (https://web.dio.me/course/logica-de-programacao-essencial/learning/aea1ea26-fd56-417d-8272-6e15253f4405/?back=/browse)
+
+2° Passo: Introdução Ao Git/Github (https://web.dio.me/course/introducao-ao-git-e-ao-github/learning/75b9fe49-6ed4-4480-83a7-7e37fc356aa9/?back=/browse)
+
+3° Passo: HTML E CSS (https://web.dio.me/course/introducao-criacao-de-websites-com-html5-e-css3/learning/462f831d-5fdf-485e-bf07-1d391eb94ac8/?back=/browse)
